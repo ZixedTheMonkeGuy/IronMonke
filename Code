@@ -13,7 +13,7 @@ using UnityEngine.Rendering;
 
 namespace NoGrav
 {
-    [BepInPlugin("org.Zixed.monkeytag.RightTriggerNoGrav", "Right Trigger No Grav", "0.0.6.9")]
+    [BepInPlugin("org.Zixed.monkeytag.RightTriggerNoGrav", "Right Trigger No Grav", "1.1.11")]
     public class MyPatcher : BaseUnityPlugin
     {
         public void Awake()
